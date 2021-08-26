@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginAndRegisteration</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="password_not_same">password must be same</string>
+    <string name="field_empty">Please Fill the blanks</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="facebook">Sign in with Facebook</string>
+    <string name="google">Sign in with Google</string>
+    <string name="join">Join Us</string>
+</resources>
